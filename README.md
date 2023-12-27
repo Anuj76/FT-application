@@ -13,7 +13,7 @@ This is a Java application that :<br>
 
 ->server assigns connection IDs to the clients connected.<br>
 
-->mandates client to specify working directory as a command line argument. It allows user to specify host address and if not specified, defaults it to Localhost. The user can also specify the port number as the third argument.<br>
+->Mandates client to specify working directory as a command line argument. It allows user to specify host address and if not specified, defaults it to Localhost. The user can also specify the port number as the third argument.<br>
 
 ->Displays files and directories present in the server working directory and allows the client to select files and download them onto the client system.<br>
 
